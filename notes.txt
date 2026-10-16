@@ -4,4 +4,3 @@ This line only exists on experiment
 Favorite color: red
 Favorite color: blue
 
-this was a bad idea
